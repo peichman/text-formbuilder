@@ -1392,8 +1392,6 @@ Suggestions on how to improve the (currently tiny) test suite would be appreciat
 
 =head1 SEE ALSO
 
-L<http://textformbuilder.berlios.de>
-
 L<CGI::FormBuilder>, L<http://formbuilder.org>
 
 =head1 THANKS
