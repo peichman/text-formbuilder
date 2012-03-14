@@ -1,6 +1,6 @@
 Release history for Text::FormBuilder.
 
-0.14
+0.14 - 14 Mar 2011
     * switched from EU::MakeMaker to Module::Build
     * precompile the Text::FormBuilder::Parser at module build time,
       so it uses the user's version of Parse::RecDescent
